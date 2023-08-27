@@ -1,0 +1,18 @@
+[package]
+name = "files_and_folders"
+version = "0.0.1"
+authors = ["Andrew <andrew@subarctic.org>"]
+license = "MIT"
+description = "Symbolic Audio Manipulation"
+edition = "2018"
+readme = "README.md"
+repository = "https://github.com/andrew-johnson-4/lmgpt"
+keywords = ["audio","functional","programming"]
+
+[dependencies]
+lambda_mountain = { version="0.0.17" }
+dasp = { version = "0.11", features = ["all"] }
+anyhow = "1"
+cpal = "0.12"
+find_folder = "0.3"
+hound = "3"
