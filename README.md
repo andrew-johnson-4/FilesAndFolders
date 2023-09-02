@@ -8,5 +8,4 @@ snap_to : (Clip, Metric) -> Clip
 ```
 
 # Audio License
-
-.wav and .mp3 files are not available for general use yet. soon.
+Feel free to mix and manipulate the .wav / .mp3 files, they are released under same license as the rest of this project.
